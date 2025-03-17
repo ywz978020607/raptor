@@ -35,6 +35,9 @@ Before using RAPTOR, ensure Python 3.8+ is installed. Clone the RAPTOR repositor
 git clone https://github.com/parthsarthi03/raptor.git
 cd raptor
 pip install -r requirements.txt
+
+pip install huggingface-hub==0.25.2
+pip install httpx==0.27.2
 ```
 
 ## Basic Usage
